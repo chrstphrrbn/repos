@@ -3,10 +3,11 @@
   <groupId>org.avaje.ebeanorm</groupId>
   <artifactId>avaje-ebeanorm</artifactId>
   <versioning>
-    <release>6.18.1</release>
+    <release>6.18.1-VODEVILLE</release>
     <versions>
       <version>6.18.1</version>
+      <version>6.18.1-VODEVILLE</version>
     </versions>
-    <lastUpdated>20160424135657</lastUpdated>
+    <lastUpdated>20160424135900</lastUpdated>
   </versioning>
 </metadata>
